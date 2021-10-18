@@ -1,0 +1,16 @@
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.exe
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.deps.json
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.runtimeconfig.json
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.runtimeconfig.dev.json
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.dll
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\ref\Stock.dll
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\bin\Debug\net5.0\Stock.pdb
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.dll
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\ref\Stock.dll
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.pdb
+C:\Users\mathi\OneDrive\Pulpit\Stock Market\Stock\Stock\obj\Debug\net5.0\Stock.genruntimeconfig.cache
